@@ -1,0 +1,1572 @@
+[
+	{
+		"role": "Abridger",
+		"value": "abr",
+		"description": "A person, family, or organization contributing to a resource by shortening or condensing the original work but leaving the nature and content of the original work substantially unchanged. For substantial modifications that result in the creation of a new work, see author"
+	},
+	{
+		"role": "Actor",
+		"value": "act",
+		"description": "A performer contributing to an expression of a work by acting as a cast member or player in a musical or dramatic presentation, etc."
+	},
+	{
+		"role": "Adapter",
+		"value": "adp",
+		"description": "A person or organization who 1) reworks a musical composition, usually for a different medium, or 2) rewrites novels or stories for motion pictures or other audiovisual medium."
+	},
+	{
+		"role": "Addressee",
+		"value": "rcp",
+		"description": "A person, family, or organization to whom the correspondence in the work is addressed\n\t UF Recipient"
+	},
+	{
+		"role": "Analyst",
+		"value": "anl",
+		"description": "A person or organization that reviews, examines and interprets data or information in a specific area"
+	},
+	{
+		"role": "Animator",
+		"value": "anm",
+		"description": "A person contributing to a moving image work or computer program by giving apparent movement to inanimate objects or drawings. For the creator of the drawings that are animated, see artist"
+	},
+	{
+		"role": "Annotator",
+		"value": "ann",
+		"description": "A person who makes manuscript annotations on an item"
+	},
+	{
+		"role": "Appellant",
+		"value": "apl",
+		"description": "A person or organization who appeals a lower court's decision"
+	},
+	{
+		"role": "Appellee",
+		"value": "ape",
+		"description": "A person or organization against whom an appeal is taken"
+	},
+	{
+		"role": "Applicant",
+		"value": "app",
+		"description": "A  person or organization responsible for the submission of an application or who is named as eligible for the results of the processing of the application (e.g., bestowing of rights, reward, title, position)"
+	},
+	{
+		"role": "Architect",
+		"value": "arc",
+		"description": "A person, family, or organization responsible for creating an architectural design, including a pictorial representation intended to show how a building, etc., will look when completed. It also oversees the construction of structures"
+	},
+	{
+		"role": "Arranger",
+		"value": "arr",
+		"description": "A person, family, or organization contributing to a musical work by rewriting the composition for a medium of performance different from that for which the work was originally intended, or modifying the work for the same medium of performance, etc., such that the musical substance of the original composition remains essentially unchanged. For extensive modification that effectively results in the creation of a new musical work, see composer\n\t UF Arranger of music"
+	},
+	{
+		"role": "Art copyist",
+		"value": "acp",
+		"description": "A person (e.g., a painter or sculptor) who makes copies of works of visual art"
+	},
+	{
+		"role": "Art director",
+		"value": "adi",
+		"description": "A person contributing to a motion picture or television production by overseeing the artists and craftspeople who build the sets"
+	},
+	{
+		"role": "Artist",
+		"value": "art",
+		"description": "A person, family, or organization responsible for creating a work by conceiving, and implementing, an original graphic design, drawing, painting, etc. For book illustrators, prefer Illustrator [ill\n\t UF Graphic technician"
+	},
+	{
+		"role": "Artistic director",
+		"value": "ard",
+		"description": "A person responsible for controlling the development of the artistic style of an entire production, including the choice of works to be presented and selection of senior production staff"
+	},
+	{
+		"role": "Assignee",
+		"value": "asg",
+		"description": "A person or organization to whom a license for printing or publishing has been transferred"
+	},
+	{
+		"role": "Associated name",
+		"value": "asn",
+		"description": "A person or organization associated with or found in an item or collection, which cannot be determined to be that of a Former owner [fmo] or other designated relationship indicative of provenance"
+	},
+	{
+		"role": "Attributed name",
+		"value": "att",
+		"description": "An author, artist, etc., relating him/her to a resource for which there is or once was substantial authority for designating that person as author, creator, etc. of the work indicative of provenance\n\t UF Supposed name"
+	},
+	{
+		"role": "Auctioneer",
+		"value": "auc",
+		"description": "A person or organization in charge of the estimation and public auctioning of goods, particularly books, artistic works, etc."
+	},
+	{
+		"role": "Author",
+		"value": "aut",
+		"description": "A person, family, or organization responsible for creating a work that is primarily textual in content, regardless of media type (e.g., printed text, spoken word, electronic text, tactile text) or genre (e.g., poems, novels, screenplays, blogs). Use also for persons, etc., creating a new work by paraphrasing, rewriting, or adapting works by another creator such that the modification has substantially changed the nature and content of the original or changed the medium of expression\n\t UF Joint author"
+	},
+	{
+		"role": "Author in quotations or text abstracts",
+		"value": "aqt",
+		"description": "A person or organization whose work is largely quoted or extracted in works to which he or she did not contribute directly. Such quotations are found particularly in exhibition catalogs, collections of photographs, etc."
+	},
+	{
+		"role": "Author of afterword, colophon, etc.",
+		"value": "aft",
+		"description": "A person or organization responsible for an afterword, postface, colophon, etc. but who is not the chief author of a work"
+	},
+	{
+		"role": "Author of dialog",
+		"value": "aud",
+		"description": "A person or organization responsible for the dialog or spoken commentary for a screenplay or sound recording"
+	},
+	{
+		"role": "Author of introduction, etc.",
+		"value": "aui",
+		"description": "A person or organization responsible for an introduction, preface, foreword, or other critical introductory matter, but who is not the chief author"
+	},
+	{
+		"role": "Autographer",
+		"value": "ato",
+		"description": "A person whose manuscript signature appears on an item"
+	},
+	{
+		"role": "Bibliographic antecedent",
+		"value": "ant",
+		"description": "A person or organization responsible for a resource upon which the resource represented by the bibliographic description is based. This may be appropriate for adaptations, sequels, continuations, indexes, etc."
+	},
+	{
+		"role": "Binder",
+		"value": "bnd",
+		"description": "A person who binds an item"
+	},
+	{
+		"role": "Binding designer",
+		"value": "bdd",
+		"description": "A person or organization responsible for the binding design of a book, including the type of binding, the type of materials used, and any decorative aspects of the binding\n\t UF Designer of binding"
+	},
+	{
+		"role": "Blurb writer",
+		"value": "blw",
+		"description": "A person or organization responsible for writing a commendation or testimonial for a work, which appears on or within the publication itself, frequently on the back or dust jacket of print publications or on advertising material for all media"
+	},
+	{
+		"role": "Book designer",
+		"value": "bkd",
+		"description": "A person or organization involved in manufacturing a manifestation by being responsible for the entire graphic design of a book, including arrangement of type and illustration, choice of materials, and process used\n\t UF Designer of book\n\t UF Designer of e-book"
+	},
+	{
+		"role": "Book producer",
+		"value": "bkp",
+		"description": "A person or organization responsible for the production of books and other print media\n\t UF Producer of book"
+	},
+	{
+		"role": "Bookjacket designer",
+		"value": "bjd",
+		"description": "A person or organization responsible for the design of flexible covers designed for or published with a book, including the type of materials used, and any decorative aspects of the bookjacket\n\t UF Designer of bookjacket"
+	},
+	{
+		"role": "Bookplate designer",
+		"value": "bpd",
+		"description": "A person or organization responsible for the design of a book owner's identification label that is most commonly pasted to the inside front cover of a book"
+	},
+	{
+		"role": "Bookseller",
+		"value": "bsl",
+		"description": "A person or organization who makes books and other bibliographic materials available for purchase. Interest in the materials is primarily lucrative"
+	},
+	{
+		"role": "Braille embosser",
+		"value": "brl",
+		"description": "A person, family, or organization involved in manufacturing a resource by embossing Braille cells using a stylus, special embossing printer, or other device"
+	},
+	{
+		"role": "Broadcaster",
+		"value": "brd",
+		"description": "A person, family, or organization involved in broadcasting a resource to an audience via radio, television, webcast, etc."
+	},
+	{
+		"role": "Calligrapher",
+		"value": "cll",
+		"description": "A person or organization who writes in an artistic hand, usually as a copyist and or engrosser"
+	},
+	{
+		"role": "Cartographer",
+		"value": "ctg",
+		"description": "A person, family, or organization responsible for creating a map, atlas, globe, or other cartographic work"
+	},
+	{
+		"role": "Caster",
+		"value": "cas",
+		"description": "A person, family, or organization involved in manufacturing a resource by pouring a liquid or molten substance into a mold and leaving it to solidify to take the shape of the mold"
+	},
+	{
+		"role": "Censor",
+		"value": "cns",
+		"description": "A person or organization who examines bibliographic resources for the purpose of suppressing parts deemed objectionable on moral, political, military, or other grounds\n\t UF Bowdlerizer\n\t UF Expurgator"
+	},
+	{
+		"role": "Choreographer",
+		"value": "chr",
+		"description": "A person responsible for creating or contributing to a work of movement"
+	},
+	{
+		"role": "Cinematographer",
+		"value": "cng",
+		"description": "A person in charge of photographing a motion picture, who plans the technical aspets of lighting and photographing of scenes, and often assists the director in the choice of angles, camera setups, and lighting moods. He or she may also supervise the further processing of filmed material up to the completion of the work print. Cinematographer is also referred to as director of photography. Do not confuse with videographer\n\t UF Director of photography"
+	},
+	{
+		"role": "Client",
+		"value": "cli",
+		"description": "A person or organization for whom another person or organization is acting"
+	},
+	{
+		"role": "Collection registrar",
+		"value": "cor",
+		"description": "A curator who lists or inventories the items in an aggregate work such as a collection of items or works"
+	},
+	{
+		"role": "Collector",
+		"value": "col",
+		"description": "A curator who brings together items from various sources that are then arranged, described, and cataloged as a collection. A collector is neither the creator of the material nor a person to whom manuscripts in the collection may have been addressed"
+	},
+	{
+		"role": "Collotyper",
+		"value": "clt",
+		"description": "A person, family, or organization involved in manufacturing a manifestation of photographic prints from film or other colloid that has ink-receptive and ink-repellent surfaces"
+	},
+	{
+		"role": "Colorist",
+		"value": "clr",
+		"description": "A person or organization responsible for applying color to drawings, prints, photographs, maps, moving images, etc"
+	},
+	{
+		"role": "Commentator",
+		"value": "cmm",
+		"description": "A performer contributing to a work by providing interpretation, analysis, or a discussion of the subject matter on a recording, film, or other audiovisual medium"
+	},
+	{
+		"role": "Commentator for written text",
+		"value": "cwt",
+		"description": "A person or organization responsible for the commentary or explanatory notes about a text. For the writer of manuscript annotations in a printed book, use Annotator"
+	},
+	{
+		"role": "Compiler",
+		"value": "com",
+		"description": "A person, family, or organization responsible for creating a new work (e.g., a bibliography, a directory) through the act of compilation, e.g., selecting, arranging, aggregating, and editing data, information, etc"
+	},
+	{
+		"role": "Complainant",
+		"value": "cpl",
+		"description": "A person or organization who applies to the courts for redress, usually in an equity proceeding"
+	},
+	{
+		"role": "Complainant-appellant",
+		"value": "cpt",
+		"description": "A complainant who takes an appeal from one court or jurisdiction to another to reverse the judgment, usually in an equity proceeding"
+	},
+	{
+		"role": "Complainant-appellee",
+		"value": "cpe",
+		"description": "A complainant against whom an appeal is taken from one court or jurisdiction to another to reverse the judgment, usually in an equity proceeding"
+	},
+	{
+		"role": "Composer",
+		"value": "cmp",
+		"description": "A person, family, or organization responsible for creating or contributing to a musical resource by adding music to a work that originally lacked it or supplements it"
+	},
+	{
+		"role": "Compositor",
+		"value": "cmt",
+		"description": "A person or organization responsible for the creation of metal slug, or molds made of other materials, used to produce the text and images in printed matter\n\t UF Typesetter"
+	},
+	{
+		"role": "Conceptor",
+		"value": "ccp",
+		"description": "A person or organization responsible for the original idea on which a work is based, this includes the scientific author of an audio-visual item and the conceptor of an advertisement"
+	},
+	{
+		"role": "Conductor",
+		"value": "cnd",
+		"description": "A performer contributing to a musical resource by leading a performing group (orchestra, chorus, opera, etc.) in a musical or dramatic presentation, etc."
+	},
+	{
+		"role": "Conservator",
+		"value": "con",
+		"description": "A person or organization responsible for documenting, preserving, or treating printed or manuscript material, works of art, artifacts, or other media\n\t UF Preservationist"
+	},
+	{
+		"role": "Consultant",
+		"value": "csl",
+		"description": "A person or organization relevant to a resource, who is called upon for professional advice or services in a specialized field of knowledge or training"
+	},
+	{
+		"role": "Consultant to a project",
+		"value": "csp",
+		"description": "A person or organization relevant to a resource, who is engaged specifically to provide an intellectual overview of a strategic or operational task and by analysis, specification, or instruction, to create or propose a cost-effective course of action or solution"
+	},
+	{
+		"role": "Contestant",
+		"value": "cos",
+		"description": "A person(s) or organization who opposes, resists, or disputes, in a court of law, a claim, decision, result, etc."
+	},
+	{
+		"role": "Contestant-appellant",
+		"value": "cot",
+		"description": "A contestant who takes an appeal from one court of law or jurisdiction to another to reverse the judgment"
+	},
+	{
+		"role": "Contestant-appellee",
+		"value": "coe",
+		"description": "A contestant against whom an appeal is taken from one court of law or jurisdiction to another to reverse the judgment"
+	},
+	{
+		"role": "Contestee",
+		"value": "cts",
+		"description": "A person(s) or organization defending a claim, decision, result, etc. being opposed, resisted, or disputed in a court of law"
+	},
+	{
+		"role": "Contestee-appellant",
+		"value": "ctt",
+		"description": "A contestee who takes an appeal from one court or jurisdiction to another to reverse the judgment"
+	},
+	{
+		"role": "Contestee-appellee",
+		"value": "cte",
+		"description": "A contestee against whom an appeal is taken from one court or jurisdiction to another to reverse the judgment"
+	},
+	{
+		"role": "Contractor",
+		"value": "ctr",
+		"description": "A person or organization relevant to a resource, who enters into a contract with another person or organization to perform a specific"
+	},
+	{
+		"role": "Contributor",
+		"value": "ctb",
+		"description": "A person, family or organization responsible for making contributions to the resource. This includes those whose work has been contributed to a larger work, such as an anthology, serial publication, or other compilation of individual works. If a more specific role is available, prefer that, e.g. editor, compiler, illustrator\n\t UF Collaborator"
+	},
+	{
+		"role": "Copyright claimant",
+		"value": "cpc",
+		"description": "A person or organization listed as a copyright owner at the time of registration. Copyright can be granted or later transferred to another person or organization, at which time the claimant becomes the copyright holder"
+	},
+	{
+		"role": "Copyright holder",
+		"value": "cph",
+		"description": "A person or organization to whom copy and legal rights have been granted or transferred for the intellectual content of a work. The copyright holder, although not necessarily the creator of the work, usually has the exclusive right to benefit financially from the sale and use of the work to which the associated copyright protection applies"
+	},
+	{
+		"role": "Corrector",
+		"value": "crr",
+		"description": "A person or organization who is a corrector of manuscripts, such as the scriptorium official who corrected the work of a scribe. For printed matter, use Proofreader"
+	},
+	{
+		"role": "Correspondent",
+		"value": "crp",
+		"description": "A person or organization who was either the writer or recipient of a letter or other communication"
+	},
+	{
+		"role": "Costume designer",
+		"value": "cst",
+		"description": "A person, family, or organization that designs the costumes for a moving image production or for a musical or dramatic presentation or entertainment"
+	},
+	{
+		"role": "Court governed",
+		"value": "cou",
+		"description": "A court governed by court rules, regardless of their official nature (e.g., laws, administrative regulations)"
+	},
+	{
+		"role": "Court reporter",
+		"value": "crt",
+		"description": "The person, family, or organization contributing to a resource by preparing a court's opinions for publication"
+	},
+	{
+		"role": "Cover designer",
+		"value": "cov",
+		"description": "A person or organization responsible for the graphic design of a book cover, album cover, slipcase, box, container, etc. For a person or organization responsible for the graphic design of an entire book, use Book designer; for book jackets, use Bookjacket designer\n\t UF Designer of cover"
+	},
+	{
+		"role": "Creator",
+		"value": "cre",
+		"description": "A person or organization responsible for the intellectual or artistic content of a resource"
+	},
+	{
+		"role": "Curator",
+		"value": "cur",
+		"description": "A person, family, or organization conceiving, aggregating, and/or organizing an exhibition, collection, or other item\n\t UF Curator of an exhibition"
+	},
+	{
+		"role": "Dancer",
+		"value": "dnc",
+		"description": "A performer who dances in a musical, dramatic, etc., presentation"
+	},
+	{
+		"role": "Data contributor",
+		"value": "dtc",
+		"description": "A person or organization that submits data for inclusion in a database or other collection of data"
+	},
+	{
+		"role": "Data manager",
+		"value": "dtm",
+		"description": "A person or organization responsible for managing databases or other data sources"
+	},
+	{
+		"role": "Dedicatee",
+		"value": "dte",
+		"description": "A person, family, or organization to whom the resource is dedicated\n\t UF Dedicatee of item"
+	},
+	{
+		"role": "Dedicator",
+		"value": "dto",
+		"description": "A person who writes a dedication, which may be a formal statement or in epistolary or verse form"
+	},
+	{
+		"role": "Defendant",
+		"value": "dfd",
+		"description": "A person or organization who is accused in a criminal proceeding or sued in a civil proceeding"
+	},
+	{
+		"role": "Defendant-appellant",
+		"value": "dft",
+		"description": "A defendant who takes an appeal from one court or jurisdiction to another to reverse the judgment, usually in a legal action"
+	},
+	{
+		"role": "Defendant-appellee",
+		"value": "dfe",
+		"description": "A defendant against whom an appeal is taken from one court or jurisdiction to another to reverse the judgment, usually in a legal action"
+	},
+	{
+		"role": "Degree granting institution",
+		"value": "dgg",
+		"description": "A organization granting an academic degree\n\t UF Degree grantor"
+	},
+	{
+		"role": "Delineator",
+		"value": "dln",
+		"description": "A person or organization executing technical drawings from others' designs"
+	},
+	{
+		"role": "Depicted",
+		"value": "dpc",
+		"description": "An entity depicted or portrayed in a work, particularly in a work of art"
+	},
+	{
+		"role": "Depositor",
+		"value": "dpt",
+		"description": "A current owner of an item who deposited the item into the custody of another person, family, or organization, while still retaining ownership"
+	},
+	{
+		"role": "Designer",
+		"value": "dsr",
+		"description": "A person, family, or organization responsible for creating a design for an object"
+	},
+	{
+		"role": "Director",
+		"value": "drt",
+		"description": "A person responsible for the general management and supervision of a filmed performance, a radio or television program, etc."
+	},
+	{
+		"role": "Dissertant",
+		"value": "dis",
+		"description": "A person who presents a thesis for a university or higher-level educational degree"
+	},
+	{
+		"role": "Distribution place",
+		"value": "dbp",
+		"description": "A place from which a resource, e.g., a serial, is distributed"
+	},
+	{
+		"role": "Distributor",
+		"value": "dst",
+		"description": "A person or organization that has exclusive or shared marketing rights for a resource"
+	},
+	{
+		"role": "Donor",
+		"value": "dnr",
+		"description": "A former owner of an item who donated that item to another owner"
+	},
+	{
+		"role": "Draftsman",
+		"value": "drm",
+		"description": "A person, family, or organization contributing to a resource by an architect, inventor, etc., by making detailed plans or drawings for buildings, ships, aircraft, machines, objects, etc\n\t UF Technical draftsman"
+	},
+	{
+		"role": "Dubious author",
+		"value": "dub",
+		"description": "A person or organization to which authorship has been dubiously or incorrectly ascribed"
+	},
+	{
+		"role": "Editor",
+		"value": "edt",
+		"description": "A person, family, or organization contributing to a resource by revising or elucidating the content, e.g., adding an introduction, notes, or other critical matter. An editor may also prepare a resource for production, publication, or distribution. For major revisions, adaptations, etc., that substantially change the nature and content of the original work, resulting in a new work, see author"
+	},
+	{
+		"role": "Editor of compilation",
+		"value": "edc",
+		"description": "A person, family, or organization contributing to a collective or aggregate work by selecting and putting together works, or parts of works, by one or more creators. For compilations of data, information, etc., that result in new works, see compiler"
+	},
+	{
+		"role": "Editor of moving image work",
+		"value": "edm",
+		"description": "A person, family, or organization responsible for assembling, arranging, and trimming film, video, or other moving image formats, including both visual and audio aspects\n\t UF Moving image work editor"
+	},
+	{
+		"role": "Electrician",
+		"value": "elg",
+		"description": "A person responsible for setting up a lighting rig and focusing the lights for a production, and running the lighting at a performance\n\t UF Chief electrician\n\t UF House electrician\n\t UF Master electrician"
+	},
+	{
+		"role": "Electrotyper",
+		"value": "elt",
+		"description": "A person or organization who creates a duplicate printing surface by pressure molding and electrodepositing of metal that is then backed up with lead for printing"
+	},
+	{
+		"role": "Enacting jurisdiction",
+		"value": "enj",
+		"description": "A jurisdiction enacting a law, regulation, constitution, court rule, etc."
+	},
+	{
+		"role": "Engineer",
+		"value": "eng",
+		"description": "A person or organization that is responsible for technical planning and design, particularly with construction"
+	},
+	{
+		"role": "Engraver",
+		"value": "egr",
+		"description": "A person or organization who cuts letters, figures, etc. on a surface, such as a wooden or metal plate used for printing"
+	},
+	{
+		"role": "Etcher",
+		"value": "etr",
+		"description": "A person or organization who produces text or images for printing by subjecting metal, glass, or some other surface to acid or the corrosive action of some other substance"
+	},
+	{
+		"role": "Event place",
+		"value": "evp",
+		"description": "A place where an event such as a conference or a concert took place"
+	},
+	{
+		"role": "Expert",
+		"value": "exp",
+		"description": "A person or organization in charge of the description and appraisal of the value of goods, particularly rare items, works of art, etc.\n\t UF Appraiser"
+	},
+	{
+		"role": "Facsimilist",
+		"value": "fac",
+		"description": "A person or organization that executed the facsimile\n\t UF Copier"
+	},
+	{
+		"role": "Field director",
+		"value": "fld",
+		"description": "A person or organization that manages or supervises the work done to collect raw data or do research in an actual setting or environment (typically applies to the natural and social sciences)"
+	},
+	{
+		"role": "Film director",
+		"value": "fmd",
+		"description": "A director responsible for the general management and supervision of a filmed performance"
+	},
+	{
+		"role": "Film distributor",
+		"value": "fds",
+		"description": "A person, family, or organization involved in distributing a moving image resource to theatres or other distribution channels"
+	},
+	{
+		"role": "Film editor",
+		"value": "flm",
+		"description": "A person who, following the script and in creative cooperation with the Director, selects, arranges, and assembles the filmed material, controls the synchronization of picture and sound, and participates in other post-production tasks such as sound mixing and visual effects processing.  Today, picture editing is often performed digitally.\n\t UF Motion picture editor"
+	},
+	{
+		"role": "Film producer",
+		"value": "fmp",
+		"description": "A producer responsible for most of the business aspects of a film"
+	},
+	{
+		"role": "Filmmaker",
+		"value": "fmk",
+		"description": "A person, family or organization responsible for creating an independent or personal film. A filmmaker is individually responsible for the conception and execution of all aspects of the film"
+	},
+	{
+		"role": "First party",
+		"value": "fpy",
+		"description": "A person or organization who is identified as the only party or the party of the first party. In the case of transfer of rights, this is the assignor, transferor, licensor, grantor, etc. Multiple parties can be named jointly as the first party"
+	},
+	{
+		"role": "Forger",
+		"value": "frg",
+		"description": "A person or organization who makes or imitates something of value or importance, especially with the intent to defraud\n\t UF Copier\n\t UF Counterfeiter"
+	},
+	{
+		"role": "Former owner",
+		"value": "fmo",
+		"description": "A person, family, or organization formerly having legal possession of an item (i.e., a specific copy or instance of a resource)"
+	},
+	{
+		"role": "Funder",
+		"value": "fnd",
+		"description": "A person or organization that furnished financial support for the production of the work"
+	},
+	{
+		"role": "Geographic information specialist",
+		"value": "gis",
+		"description": "A person responsible for geographic information system (GIS) development and integration with global positioning system data\n\t UF Geospatial information specialist"
+	},
+	{
+		"role": "Honoree",
+		"value": "hnr",
+		"description": "A person, family, or organization honored by a work or item (e.g., the honoree of a festschrift, a person to whom a copy is presented)\n\t UF Honouree\n\t UF Honouree of item"
+	},
+	{
+		"role": "Host",
+		"value": "hst",
+		"description": "A performer contributing to a resource by leading a program (often broadcast) that includes other guests, performers, etc. (e.g., talk show host)"
+	},
+	{
+		"role": "Host institution",
+		"value": "his",
+		"description": "An organization hosting an event, exhibit, conference, etc., which gave rise to the resource, but having little or no responsibility for the content of the resource"
+	},
+	{
+		"role": "Illuminator",
+		"value": "ilu",
+		"description": "A person providing decoration to a specific item using precious metals or color, often with elaborate designs and motifs"
+	},
+	{
+		"role": "Illustrator",
+		"value": "ill",
+		"description": "A person, family, or organization contributing to a resource by supplementing the primary content with drawings, diagrams, photographs, etc. If the work is primarily the artistic content created by this entity, use artist"
+	},
+	{
+		"role": "Inscriber",
+		"value": "ins",
+		"description": "A person who has written a statement of dedication or gift"
+	},
+	{
+		"role": "Instrumentalist",
+		"value": "itr",
+		"description": "A performer contributing to a resource by playing a musical instrument"
+	},
+	{
+		"role": "Interviewee",
+		"value": "ive",
+		"description": "A person, family or organization responsible for creating or contributing to a resource by responding to an interviewer, usually a reporter, pollster, or some other information gathering agent"
+	},
+	{
+		"role": "Interviewer",
+		"value": "ivr",
+		"description": "A person, family, or organization responsible for creating or contributing to a resource by acting as an interviewer, reporter, pollster, or some other information gathering agent"
+	},
+	{
+		"role": "Inventor",
+		"value": "inv",
+		"description": "A person, family, or organization responsible for creating a new device or process\n\t UF Patent inventor"
+	},
+	{
+		"role": "Issuing body",
+		"value": "isb",
+		"description": "A person, family or organization issuing the work, such as an official organ of the body"
+	},
+	{
+		"role": "Judge",
+		"value": "jud",
+		"description": "A person who hears and decides on legal matters in court."
+	},
+	{
+		"role": "Jurisdiction governed",
+		"value": "jug",
+		"description": "A jurisdiction governed by a law, regulation, etc., that was enacted by another jurisdiction"
+	},
+	{
+		"role": "Laboratory",
+		"value": "lbr",
+		"description": "An organization that provides scientific analyses of material samples"
+	},
+	{
+		"role": "Laboratory director",
+		"value": "ldr",
+		"description": "A person or organization that manages or supervises work done in a controlled setting or environment\n\t UF Lab director"
+	},
+	{
+		"role": "Landscape architect",
+		"value": "lsa",
+		"description": "An architect responsible for creating landscape works. This work involves coordinating the arrangement of existing and proposed land features and structures"
+	},
+	{
+		"role": "Lead",
+		"value": "led",
+		"description": "A person or organization that takes primary responsibility for a particular activity or endeavor. May be combined with another relator term or code to show the greater importance this person or organization has regarding that particular role. If more than one relator is assigned to a heading, use the Lead relator only if it applies to all the relators"
+	},
+	{
+		"role": "Lender",
+		"value": "len",
+		"description": "A person or organization permitting the temporary use of a book, manuscript, etc., such as for photocopying or microfilming"
+	},
+	{
+		"role": "Libelant",
+		"value": "lil",
+		"description": "A person or organization who files a libel in an ecclesiastical or admiralty case"
+	},
+	{
+		"role": "Libelant-appellant",
+		"value": "lit",
+		"description": "A libelant who takes an appeal from one ecclesiastical court or admiralty to another to reverse the judgment"
+	},
+	{
+		"role": "Libelant-appellee",
+		"value": "lie",
+		"description": "A libelant against whom an appeal is taken from one ecclesiastical court or admiralty to another to reverse the judgment"
+	},
+	{
+		"role": "Libelee",
+		"value": "lel",
+		"description": "A person or organization against whom a libel has been filed in an ecclesiastical court or admiralty"
+	},
+	{
+		"role": "Libelee-appellant",
+		"value": "let",
+		"description": "A libelee who takes an appeal from one ecclesiastical court or admiralty to another to reverse the judgment"
+	},
+	{
+		"role": "Libelee-appellee",
+		"value": "lee",
+		"description": "A libelee against whom an appeal is taken from one ecclesiastical court or admiralty to another to reverse the judgment"
+	},
+	{
+		"role": "Librettist",
+		"value": "lbt",
+		"description": "An author of a libretto of an opera or other stage work, or an oratorio"
+	},
+	{
+		"role": "Licensee",
+		"value": "lse",
+		"description": "A person or organization who is an original recipient of the right to print or publish"
+	},
+	{
+		"role": "Licensor",
+		"value": "lso",
+		"description": "A person or organization who is a signer of the license, imprimatur, etc\n\t UF Imprimatur"
+	},
+	{
+		"role": "Lighting designer",
+		"value": "lgd",
+		"description": "A person or organization who designs the lighting scheme for a theatrical presentation, entertainment, motion picture, etc."
+	},
+	{
+		"role": "Lithographer",
+		"value": "ltg",
+		"description": "A person or organization who prepares the stone or plate for lithographic printing, including a graphic artist creating a design directly on the surface from which printing will be done."
+	},
+	{
+		"role": "Lyricist",
+		"value": "lyr",
+		"description": "An author of the words of a non-dramatic musical work (e.g. the text of a song), except for oratorios"
+	},
+	{
+		"role": "Manufacture place",
+		"value": "mfp",
+		"description": "The place of manufacture (e.g., printing, duplicating, casting, etc.) of a resource in a published form"
+	},
+	{
+		"role": "Manufacturer",
+		"value": "mfr",
+		"description": "A person or organization responsible for printing, duplicating, casting, etc. a resource"
+	},
+	{
+		"role": "Marbler",
+		"value": "mrb",
+		"description": "The entity responsible for marbling paper, cloth, leather, etc. used in construction of a resource"
+	},
+	{
+		"role": "Markup editor",
+		"value": "mrk",
+		"description": "A person or organization performing the coding of SGML, HTML, or XML markup of metadata, text, etc.\n\t UF Encoder"
+	},
+	{
+		"role": "Metadata contact",
+		"value": "mdc",
+		"description": "A person or organization primarily responsible for compiling and maintaining the original description of a metadata set (e.g., geospatial metadata set)"
+	},
+	{
+		"role": "Metal-engraver",
+		"value": "mte",
+		"description": "An engraver responsible for decorations, illustrations, letters, etc. cut on a metal surface for printing or decoration"
+	},
+	{
+		"role": "Moderator",
+		"value": "mod",
+		"description": "A performer contributing to a resource by leading a program (often broadcast) where topics are discussed, usually with participation of experts in fields related to the discussion"
+	},
+	{
+		"role": "Monitor",
+		"value": "mon",
+		"description": "A person or organization that supervises compliance with the contract and is responsible for the report and controls its distribution. Sometimes referred to as the grantee, or controlling agency"
+	},
+	{
+		"role": "Music copyist",
+		"value": "mcp",
+		"description": "A person who transcribes or copies musical notation"
+	},
+	{
+		"role": "Musical director",
+		"value": "msd",
+		"description": "A person who coordinates the activities of the composer, the sound editor, and sound mixers for a moving image production or for a musical or dramatic presentation or entertainment"
+	},
+	{
+		"role": "Musician",
+		"value": "mus",
+		"description": "A person or organization who performs music or contributes to the musical content of a work when it is not possible or desirable to identify the function more precisely"
+	},
+	{
+		"role": "Narrator",
+		"value": "nrt",
+		"description": "A performer contributing to a resource by reading or speaking in order to give an account of an act, occurrence, course of events, etc"
+	},
+	{
+		"role": "Onscreen presenter",
+		"value": "osp",
+		"description": "A performer contributing to an expression of a work by appearing on screen in nonfiction moving image materials or introductions to fiction moving image materials to provide contextual or background information. Use when another term (e.g., narrator, host) is either not applicable or not desired"
+	},
+	{
+		"role": "Opponent",
+		"value": "opn",
+		"description": "A person or organization responsible for opposing a thesis or dissertation"
+	},
+	{
+		"role": "Organizer of meeting",
+		"value": "orm",
+		"description": "A person or organization responsible for organizing a meeting for which the resource is the report or proceedings"
+	},
+	{
+		"role": "Originator",
+		"value": "org",
+		"description": "A person or organization performing the work, i.e., the name of a person or organization associated with the intellectual content of the work. This category does not include the publisher or personal affiliation, or sponsor except where it is also the corporate author"
+	},
+	{
+		"role": "Other",
+		"value": "oth",
+		"description": "Use for relator codes from other lists which have no equivalent in the MARC list or for terms which have not been assigned a code"
+	},
+	{
+		"role": "Owner",
+		"value": "own",
+		"description": "A person, family, or organization that currently owns an item or collection, i.e.has legal possession of a specific copy or instance of a resource\n\t UF Current owner"
+	},
+	{
+		"role": "Panelist",
+		"value": "pan",
+		"description": "A performer contributing to a resource by participating in a program (often broadcast) where topics are discussed, usually with participation of experts in fields related to the discussion"
+	},
+	{
+		"role": "Papermaker",
+		"value": "ppm",
+		"description": "A person or organization responsible for the production of paper, usually from wood, cloth, or other fibrous material"
+	},
+	{
+		"role": "Patent applicant",
+		"value": "pta",
+		"description": "A person or organization that applied for a patent"
+	},
+	{
+		"role": "Patent holder",
+		"value": "pth",
+		"description": "A person or organization that was granted the patent referred to by the item\n\t UF Patentee"
+	},
+	{
+		"role": "Patron",
+		"value": "pat",
+		"description": "A person or organization responsible for commissioning a work. Usually a patron uses his or her means or influence to support the work of artists, writers, etc. This includes those who commission and pay for individual works"
+	},
+	{
+		"role": "Performer",
+		"value": "prf",
+		"description": "A person contributing to a resource by performing music, acting, dancing, speaking, etc., often in a musical or dramatic presentation, etc. If specific codes are used, [prf] is used for a person whose principal skill is not known or specified"
+	},
+	{
+		"role": "Permitting agency",
+		"value": "pma",
+		"description": "An organization (usually a government agency) that issues permits under which work is accomplished"
+	},
+	{
+		"role": "Photographer",
+		"value": "pht",
+		"description": "A person, family, or organization responsible for creating a photographic work"
+	},
+	{
+		"role": "Plaintiff",
+		"value": "ptf",
+		"description": "A person or organization who brings a suit in a civil proceeding"
+	},
+	{
+		"role": "Plaintiff-appellant",
+		"value": "ptt",
+		"description": "A plaintiff who takes an appeal from one court or jurisdiction to another to reverse the judgment, usually in a legal proceeding"
+	},
+	{
+		"role": "Plaintiff-appellee",
+		"value": "pte",
+		"description": "A plaintiff against whom an appeal is taken from one court or jurisdiction to another to reverse the judgment, usually in a legal proceeding"
+	},
+	{
+		"role": "Platemaker",
+		"value": "plt",
+		"description": "A person, family, or organization involved in manufacturing a manifestation by preparing plates used in the production of printed images and/or text"
+	},
+	{
+		"role": "Praeses",
+		"value": "pra",
+		"description": "A person who is the faculty moderator of an academic disputation, normally proposing a thesis and participating in the ensuing disputation"
+	},
+	{
+		"role": "Presenter",
+		"value": "pre",
+		"description": "A person or organization mentioned in an “X presents” credit for moving image materials and who is associated with production, finance, or distribution in some way.  A vanity credit;  in early years, normally the head of a studio"
+	},
+	{
+		"role": "Printer",
+		"value": "prt",
+		"description": "A person, family, or organization involved in manufacturing a manifestation of printed text, notated music, etc., from type or plates, such as a book, newspaper, magazine, broadside, score, etc"
+	},
+	{
+		"role": "Printer of plates",
+		"value": "pop",
+		"description": "A person or organization who prints illustrations from plates.\n\t UF Plates, printer of"
+	},
+	{
+		"role": "Printmaker",
+		"value": "prm",
+		"description": "A person or organization who makes a relief, intaglio, or planographic printing surface"
+	},
+	{
+		"role": "Process contact",
+		"value": "prc",
+		"description": "A person or organization primarily responsible for performing or initiating a process, such as is done with the collection of metadata sets"
+	},
+	{
+		"role": "Producer",
+		"value": "pro",
+		"description": "A person, family, or organization responsible for most of the business aspects of a production for screen, sound recording, television, webcast, etc. The producer is generally responsible for fund raising, managing the production, hiring key personnel, arranging for distributors, etc."
+	},
+	{
+		"role": "Production company",
+		"value": "prn",
+		"description": "An organization that is responsible for financial, technical, and organizational management of a production for stage, screen, sound recording, television, webcast, etc."
+	},
+	{
+		"role": "Production designer",
+		"value": "prs",
+		"description": "A person or organization responsible for designing the overall visual appearance of a moving image production"
+	},
+	{
+		"role": "Production manager",
+		"value": "pmn",
+		"description": "A person responsible for all technical and business matters in a production"
+	},
+	{
+		"role": "Production personnel",
+		"value": "prd",
+		"description": "A person or organization associated with the production (props, lighting, special effects, etc.) of a musical or dramatic presentation or entertainment"
+	},
+	{
+		"role": "Production place",
+		"value": "prp",
+		"description": "The place of production (e.g., inscription, fabrication, construction, etc.) of a resource in an unpublished form"
+	},
+	{
+		"role": "Programmer",
+		"value": "prg",
+		"description": "A person, family, or organization responsible for creating a computer program"
+	},
+	{
+		"role": "Project director",
+		"value": "pdr",
+		"description": "A person or organization with primary responsibility for all essential aspects of a project, has overall responsibility for managing projects, or provides overall direction to a project manager"
+	},
+	{
+		"role": "Proofreader",
+		"value": "pfr",
+		"description": "A person who corrects printed matter. For manuscripts, use Corrector [crr]"
+	},
+	{
+		"role": "Provider",
+		"value": "prv",
+		"description": "A person or organization who produces, publishes, manufactures, or distributes a resource if specific codes are not desired (e.g. [mfr], [pbl])"
+	},
+	{
+		"role": "Publication place",
+		"value": "pup",
+		"description": "The place where a resource is published"
+	},
+	{
+		"role": "Publisher",
+		"value": "pbl",
+		"description": "A person or organization responsible for publishing, releasing, or issuing a resource"
+	},
+	{
+		"role": "Publishing director",
+		"value": "pbd",
+		"description": "A person or organization who presides over the elaboration of a collective work to ensure its coherence or continuity. This includes editors-in-chief, literary editors, editors of series, etc."
+	},
+	{
+		"role": "Puppeteer",
+		"value": "ppt",
+		"description": "A performer contributing to a resource by manipulating, controlling, or directing puppets or marionettes in a moving image production or a musical or dramatic presentation or entertainment"
+	},
+	{
+		"role": "Radio director",
+		"value": "rdd",
+		"description": "A director responsible for the general management and supervision of a radio program"
+	},
+	{
+		"role": "Radio producer",
+		"value": "rpc",
+		"description": "A producer responsible for most of the business aspects of a radio program"
+	},
+	{
+		"role": "Recording engineer",
+		"value": "rce",
+		"description": "A person contributing to a resource by supervising the technical aspects of a sound or video recording session"
+	},
+	{
+		"role": "Recordist",
+		"value": "rcd",
+		"description": "A person or organization who uses a recording device to capture sounds and/or video during a recording session, including field recordings of natural sounds, folkloric events, music, etc."
+	},
+	{
+		"role": "Redaktor",
+		"value": "red",
+		"description": "A person or organization who writes or develops the framework for an item without being intellectually responsible for its content"
+	},
+	{
+		"role": "Renderer",
+		"value": "ren",
+		"description": "A person or organization who prepares drawings of architectural designs (i.e., renderings) in accurate, representational perspective to show what the project will look like when completed"
+	},
+	{
+		"role": "Reporter",
+		"value": "rpt",
+		"description": "A person or organization who writes or presents reports of news or current events on air or in print"
+	},
+	{
+		"role": "Repository",
+		"value": "rps",
+		"description": "An organization that hosts data or material culture objects and provides services to promote long term, consistent and shared use of those data or objects"
+	},
+	{
+		"role": "Research team head",
+		"value": "rth",
+		"description": "A person who directed or managed a research project"
+	},
+	{
+		"role": "Research team member",
+		"value": "rtm",
+		"description": "A person who participated in a research project but whose role did not involve direction or management of it"
+	},
+	{
+		"role": "Researcher",
+		"value": "res",
+		"description": "A person or organization responsible for performing research\n\t UF Performer of research"
+	},
+	{
+		"role": "Respondent",
+		"value": "rsp",
+		"description": "A person or organization who makes an answer to the courts pursuant to an application for redress (usually in an equity proceeding) or a candidate for a degree who defends or opposes a thesis provided by the praeses in an academic disputation"
+	},
+	{
+		"role": "Respondent-appellant",
+		"value": "rst",
+		"description": "A respondent who takes an appeal from one court or jurisdiction to another to reverse the judgment, usually in an equity proceeding"
+	},
+	{
+		"role": "Respondent-appellee",
+		"value": "rse",
+		"description": "A respondent against whom an appeal is taken from one court or jurisdiction to another to reverse the judgment, usually in an equity proceeding"
+	},
+	{
+		"role": "Responsible party",
+		"value": "rpy",
+		"description": "A person or organization legally responsible for the content of the published material"
+	},
+	{
+		"role": "Restager",
+		"value": "rsg",
+		"description": "A person or organization, other than the original choreographer or director, responsible for restaging a choreographic or dramatic work and who contributes minimal new content"
+	},
+	{
+		"role": "Restorationist",
+		"value": "rsr",
+		"description": "A person, family, or organization responsible for the set of technical, editorial, and intellectual procedures aimed at compensating for the degradation of an item by bringing it back to a state as close as possible to its original condition"
+	},
+	{
+		"role": "Reviewer",
+		"value": "rev",
+		"description": "A person or organization responsible for the review of a book, motion picture, performance, etc."
+	},
+	{
+		"role": "Rubricator",
+		"value": "rbr",
+		"description": "A person or organization responsible for parts of a work, often headings or opening parts of a manuscript, that appear in a distinctive color, usually red"
+	},
+	{
+		"role": "Scenarist",
+		"value": "sce",
+		"description": "A person or organization who is the author of a motion picture screenplay, generally the person who wrote the scenarios for a motion picture during the silent era"
+	},
+	{
+		"role": "Scientific advisor",
+		"value": "sad",
+		"description": "A person or organization who brings scientific, pedagogical, or historical competence to the conception and realization on a work, particularly in the case of audio-visual items"
+	},
+	{
+		"role": "Screenwriter",
+		"value": "aus",
+		"description": "An author of a screenplay, script, or scene\n\t UF Author of screenplay, etc."
+	},
+	{
+		"role": "Scribe",
+		"value": "scr",
+		"description": "A person who is an amanuensis and for a writer of manuscripts proper. For a person who makes pen-facsimiles, use Facsimilist [fac]"
+	},
+	{
+		"role": "Sculptor",
+		"value": "scl",
+		"description": "An artist responsible for creating a three-dimensional work by modeling, carving, or similar technique"
+	},
+	{
+		"role": "Second party",
+		"value": "spy",
+		"description": "A person or organization who is identified as the party of the second part. In the case of transfer of right, this is the assignee, transferee, licensee, grantee, etc. Multiple parties can be named jointly as the second party"
+	},
+	{
+		"role": "Secretary",
+		"value": "sec",
+		"description": "A person or organization who is a recorder, redactor, or other person responsible for expressing the views of a organization"
+	},
+	{
+		"role": "Seller",
+		"value": "sll",
+		"description": "A former owner of an item who sold that item to another owner"
+	},
+	{
+		"role": "Set designer",
+		"value": "std",
+		"description": "A person who translates the rough sketches of the art director into actual architectural structures for a theatrical presentation, entertainment, motion picture, etc. Set designers draw the detailed guides and specifications for building the set"
+	},
+	{
+		"role": "Setting",
+		"value": "stg",
+		"description": "An entity in which the activity or plot of a work takes place, e.g. a geographic place, a time period, a building, an event"
+	},
+	{
+		"role": "Signer",
+		"value": "sgn",
+		"description": "A person whose signature appears without a presentation or other statement indicative of provenance. When there is a presentation statement, use Inscriber [ins]."
+	},
+	{
+		"role": "Singer",
+		"value": "sng",
+		"description": "A performer contributing to a resource by using his/her/their voice, with or without instrumental accompaniment, to produce music. A singer's performance may or may not include actual words\n\t UF Vocalist"
+	},
+	{
+		"role": "Sound designer",
+		"value": "sds",
+		"description": "A person who produces and reproduces the sound score (both live and recorded), the installation of microphones, the setting of sound levels, and the coordination of sources of sound for a production"
+	},
+	{
+		"role": "Speaker",
+		"value": "spk",
+		"description": "A performer contributing to a resource by speaking words, such as a lecture, speech, etc. "
+	},
+	{
+		"role": "Sponsor",
+		"value": "spn",
+		"description": "A person, family, or organization sponsoring some aspect of the resource, e.g., funding research, sponsoring an event\n\t UF Sponsoring body"
+	},
+	{
+		"role": "Stage director",
+		"value": "sgd",
+		"description": "A person or organization contributing to a stage resource through the overall management and supervision of a performance"
+	},
+	{
+		"role": "Stage manager",
+		"value": "stm",
+		"description": "A person who is in charge of everything that occurs on a performance stage, and who acts as chief of all crews and assistant to a director during rehearsals"
+	},
+	{
+		"role": "Standards body",
+		"value": "stn",
+		"description": "An organization responsible for the development or enforcement of a standard"
+	},
+	{
+		"role": "Stereotyper",
+		"value": "str",
+		"description": "A person or organization who creates a new plate for printing by molding or copying another printing surface"
+	},
+	{
+		"role": "Storyteller",
+		"value": "stl",
+		"description": "A performer contributing to a resource by relaying a creator's original story with dramatic or theatrical interpretation"
+	},
+	{
+		"role": "Supporting host",
+		"value": "sht",
+		"description": "A person or organization that supports (by allocating facilities, staff, or other resources) a project, program, meeting, event, data objects, material culture objects, or other entities capable of support\n\t UF Host, supporting"
+	},
+	{
+		"role": "Surveyor",
+		"value": "srv",
+		"description": "A person, family, or organization contributing to a cartographic resource by providing measurements or dimensional relationships for the geographic area represented"
+	},
+	{
+		"role": "Teacher",
+		"value": "tch",
+		"description": "A performer contributing to a resource by giving instruction or providing a demonstration\n\t UF Instructor"
+	},
+	{
+		"role": "Technical director",
+		"value": "tcd",
+		"description": "A person who is ultimately in charge of scenery, props, lights and sound for a production"
+	},
+	{
+		"role": "Television director",
+		"value": "tld",
+		"description": "A director responsible for the general management and supervision of a television program"
+	},
+	{
+		"role": "Television producer",
+		"value": "tlp",
+		"description": "A producer responsible for most of the business aspects of a television program"
+	},
+	{
+		"role": "Thesis advisor",
+		"value": "ths",
+		"description": "A person under whose supervision a degree candidate develops and presents a thesis, mémoire, or text of a dissertation\n\t UF Promoter"
+	},
+	{
+		"role": "Transcriber",
+		"value": "trc",
+		"description": "A person, family, or organization contributing to a resource by changing it from one system of notation to another. For a work transcribed for a different instrument or performing group, see Arranger [arr]. For makers of pen-facsimiles, use Facsimilist [fac]"
+	},
+	{
+		"role": "Translator",
+		"value": "trl",
+		"description": "A person or organization who renders a text from one language into another, or from an older form of a language into the modern form"
+	},
+	{
+		"role": "Type designer",
+		"value": "tyd",
+		"description": "A person or organization who designs the type face used in a particular item\n\t UF Designer of type"
+	},
+	{
+		"role": "Typographer",
+		"value": "tyg",
+		"description": "A person or organization primarily responsible for choice and arrangement of type used in an item. If the typographer is also responsible for other aspects of the graphic design of a book (e.g., Book designer [bkd]), codes for both functions may be needed"
+	},
+	{
+		"role": "University place",
+		"value": "uvp",
+		"description": "A place where a university that is associated with a resource is located, for example, a university where an academic dissertation or thesis was presented"
+	},
+	{
+		"role": "Videographer",
+		"value": "vdg",
+		"description": "A person in charge of a video production, e.g. the video recording of a stage production as opposed to a commercial motion picture. The videographer may be the camera operator or may supervise one or more camera operators. Do not confuse with cinematographer"
+	},
+	{
+		"role": "Witness",
+		"value": "wit",
+		"description": "A person who verifies the truthfulness of an event or action\n\t UF Deponent\n\t UF Eyewitness\n\t UF Observer\n\t UF Onlooker\n\t UF Testifier"
+	},
+	{
+		"role": "Wood engraver",
+		"value": "wde",
+		"description": "A person or organization who makes prints by cutting the image in relief on the end-grain of a wood block"
+	},
+	{
+		"role": "Woodcutter",
+		"value": "wdc",
+		"description": "A person or organization who makes prints by cutting the image in relief on the plank side of a wood block"
+	},
+	{
+		"role": "Writer of accompanying material",
+		"value": "wam",
+		"description": "A person or organization who writes significant material which accompanies a sound recording or other audiovisual material"
+	},
+	{
+		"role": "Writer of added commentary",
+		"value": "wac",
+		"description": "A person, family, or corporate body contributing to an expression of a work by providing an interpretation or critical explanation of the original work"
+	},
+	{
+		"role": "Writer of added lyrics",
+		"value": "wal",
+		"description": "A writer of words added to an expression of a musical work. For lyric writing in collaboration with a composer to form an original work, see lyricist"
+	},
+	{
+		"role": "Writer of added text",
+		"value": "wat",
+		"description": "A person, family, or organization contributing to a non-textual resource by providing text for the non-textual work (e.g., writing captions for photographs, descriptions of maps)."
+	},
+	{
+		"role": "Appraiser",
+		"value": "exp",
+		"description": "A person or organization in charge of the description and appraisal of the value of goods, particularly rare items, works of art, etc.\n\t UF Appraiser"
+	},
+	{
+		"role": "Arranger of music",
+		"value": "arr",
+		"description": "A person, family, or organization contributing to a musical work by rewriting the composition for a medium of performance different from that for which the work was originally intended, or modifying the work for the same medium of performance, etc., such that the musical substance of the original composition remains essentially unchanged. For extensive modification that effectively results in the creation of a new musical work, see composer\n\t UF Arranger of music"
+	},
+	{
+		"role": "Author of screenplay, etc.",
+		"value": "aus",
+		"description": "An author of a screenplay, script, or scene\n\t UF Author of screenplay, etc."
+	},
+	{
+		"role": "Bowdlerizer",
+		"value": "cns",
+		"description": "A person or organization who examines bibliographic resources for the purpose of suppressing parts deemed objectionable on moral, political, military, or other grounds\n\t UF Bowdlerizer\n\t UF Expurgator"
+	},
+	{
+		"role": "Chief electrician",
+		"value": "elg",
+		"description": "A person responsible for setting up a lighting rig and focusing the lights for a production, and running the lighting at a performance\n\t UF Chief electrician\n\t UF House electrician\n\t UF Master electrician"
+	},
+	{
+		"role": "Collaborator",
+		"value": "ctb",
+		"description": "A person, family or organization responsible for making contributions to the resource. This includes those whose work has been contributed to a larger work, such as an anthology, serial publication, or other compilation of individual works. If a more specific role is available, prefer that, e.g. editor, compiler, illustrator\n\t UF Collaborator"
+	},
+	{
+		"role": "Copier",
+		"value": "frg",
+		"description": "A person or organization who makes or imitates something of value or importance, especially with the intent to defraud\n\t UF Copier\n\t UF Counterfeiter"
+	},
+	{
+		"role": "Copier",
+		"value": "fac",
+		"description": "A person or organization that executed the facsimile\n\t UF Copier"
+	},
+	{
+		"role": "Counterfeiter",
+		"value": "frg",
+		"description": "A person or organization who makes or imitates something of value or importance, especially with the intent to defraud\n\t UF Copier\n\t UF Counterfeiter"
+	},
+	{
+		"role": "Curator of an exhibition",
+		"value": "cur",
+		"description": "A person, family, or organization conceiving, aggregating, and/or organizing an exhibition, collection, or other item\n\t UF Curator of an exhibition"
+	},
+	{
+		"role": "Current owner",
+		"value": "own",
+		"description": "A person, family, or organization that currently owns an item or collection, i.e.has legal possession of a specific copy or instance of a resource\n\t UF Current owner"
+	},
+	{
+		"role": "Dedicatee of item",
+		"value": "dte",
+		"description": "A person, family, or organization to whom the resource is dedicated\n\t UF Dedicatee of item"
+	},
+	{
+		"role": "Degree grantor",
+		"value": "dgg",
+		"description": "A organization granting an academic degree\n\t UF Degree grantor"
+	},
+	{
+		"role": "Deponent",
+		"value": "wit",
+		"description": "A person who verifies the truthfulness of an event or action\n\t UF Deponent\n\t UF Eyewitness\n\t UF Observer\n\t UF Onlooker\n\t UF Testifier"
+	},
+	{
+		"role": "Designer of binding",
+		"value": "bdd",
+		"description": "A person or organization responsible for the binding design of a book, including the type of binding, the type of materials used, and any decorative aspects of the binding\n\t UF Designer of binding"
+	},
+	{
+		"role": "Designer of book",
+		"value": "bkd",
+		"description": "A person or organization involved in manufacturing a manifestation by being responsible for the entire graphic design of a book, including arrangement of type and illustration, choice of materials, and process used\n\t UF Designer of book\n\t UF Designer of e-book"
+	},
+	{
+		"role": "Designer of bookjacket",
+		"value": "bjd",
+		"description": "A person or organization responsible for the design of flexible covers designed for or published with a book, including the type of materials used, and any decorative aspects of the bookjacket\n\t UF Designer of bookjacket"
+	},
+	{
+		"role": "Designer of cover",
+		"value": "cov",
+		"description": "A person or organization responsible for the graphic design of a book cover, album cover, slipcase, box, container, etc. For a person or organization responsible for the graphic design of an entire book, use Book designer; for book jackets, use Bookjacket designer\n\t UF Designer of cover"
+	},
+	{
+		"role": "Designer of e-book",
+		"value": "bkd",
+		"description": "A person or organization involved in manufacturing a manifestation by being responsible for the entire graphic design of a book, including arrangement of type and illustration, choice of materials, and process used\n\t UF Designer of book\n\t UF Designer of e-book"
+	},
+	{
+		"role": "Designer of type",
+		"value": "tyd",
+		"description": "A person or organization who designs the type face used in a particular item\n\t UF Designer of type"
+	},
+	{
+		"role": "Director of photography",
+		"value": "cng",
+		"description": "A person in charge of photographing a motion picture, who plans the technical aspets of lighting and photographing of scenes, and often assists the director in the choice of angles, camera setups, and lighting moods. He or she may also supervise the further processing of filmed material up to the completion of the work print. Cinematographer is also referred to as director of photography. Do not confuse with videographer\n\t UF Director of photography"
+	},
+	{
+		"role": "Encoder",
+		"value": "mrk",
+		"description": "A person or organization performing the coding of SGML, HTML, or XML markup of metadata, text, etc.\n\t UF Encoder"
+	},
+	{
+		"role": "Expurgator",
+		"value": "cns",
+		"description": "A person or organization who examines bibliographic resources for the purpose of suppressing parts deemed objectionable on moral, political, military, or other grounds\n\t UF Bowdlerizer\n\t UF Expurgator"
+	},
+	{
+		"role": "Eyewitness",
+		"value": "wit",
+		"description": "A person who verifies the truthfulness of an event or action\n\t UF Deponent\n\t UF Eyewitness\n\t UF Observer\n\t UF Onlooker\n\t UF Testifier"
+	},
+	{
+		"role": "Geospatial information specialist",
+		"value": "gis",
+		"description": "A person responsible for geographic information system (GIS) development and integration with global positioning system data\n\t UF Geospatial information specialist"
+	},
+	{
+		"role": "Graphic technician",
+		"value": "art",
+		"description": "A person, family, or organization responsible for creating a work by conceiving, and implementing, an original graphic design, drawing, painting, etc. For book illustrators, prefer Illustrator [ill\n\t UF Graphic technician"
+	},
+	{
+		"role": "Honouree",
+		"value": "hnr",
+		"description": "A person, family, or organization honored by a work or item (e.g., the honoree of a festschrift, a person to whom a copy is presented)\n\t UF Honouree\n\t UF Honouree of item"
+	},
+	{
+		"role": "Honouree of item",
+		"value": "hnr",
+		"description": "A person, family, or organization honored by a work or item (e.g., the honoree of a festschrift, a person to whom a copy is presented)\n\t UF Honouree\n\t UF Honouree of item"
+	},
+	{
+		"role": "Host, supporting",
+		"value": "sht",
+		"description": "A person or organization that supports (by allocating facilities, staff, or other resources) a project, program, meeting, event, data objects, material culture objects, or other entities capable of support\n\t UF Host, supporting"
+	},
+	{
+		"role": "House electrician",
+		"value": "elg",
+		"description": "A person responsible for setting up a lighting rig and focusing the lights for a production, and running the lighting at a performance\n\t UF Chief electrician\n\t UF House electrician\n\t UF Master electrician"
+	},
+	{
+		"role": "Imprimatur",
+		"value": "lso",
+		"description": "A person or organization who is a signer of the license, imprimatur, etc\n\t UF Imprimatur"
+	},
+	{
+		"role": "Instructor",
+		"value": "tch",
+		"description": "A performer contributing to a resource by giving instruction or providing a demonstration\n\t UF Instructor"
+	},
+	{
+		"role": "Joint author",
+		"value": "aut",
+		"description": "A person, family, or organization responsible for creating a work that is primarily textual in content, regardless of media type (e.g., printed text, spoken word, electronic text, tactile text) or genre (e.g., poems, novels, screenplays, blogs). Use also for persons, etc., creating a new work by paraphrasing, rewriting, or adapting works by another creator such that the modification has substantially changed the nature and content of the original or changed the medium of expression\n\t UF Joint author"
+	},
+	{
+		"role": "Lab director",
+		"value": "ldr",
+		"description": "A person or organization that manages or supervises work done in a controlled setting or environment\n\t UF Lab director"
+	},
+	{
+		"role": "Master electrician",
+		"value": "elg",
+		"description": "A person responsible for setting up a lighting rig and focusing the lights for a production, and running the lighting at a performance\n\t UF Chief electrician\n\t UF House electrician\n\t UF Master electrician"
+	},
+	{
+		"role": "Motion picture editor",
+		"value": "flm",
+		"description": "A person who, following the script and in creative cooperation with the Director, selects, arranges, and assembles the filmed material, controls the synchronization of picture and sound, and participates in other post-production tasks such as sound mixing and visual effects processing.  Today, picture editing is often performed digitally.\n\t UF Motion picture editor"
+	},
+	{
+		"role": "Moving image work editor",
+		"value": "edm",
+		"description": "A person, family, or organization responsible for assembling, arranging, and trimming film, video, or other moving image formats, including both visual and audio aspects\n\t UF Moving image work editor"
+	},
+	{
+		"role": "Observer",
+		"value": "wit",
+		"description": "A person who verifies the truthfulness of an event or action\n\t UF Deponent\n\t UF Eyewitness\n\t UF Observer\n\t UF Onlooker\n\t UF Testifier"
+	},
+	{
+		"role": "Onlooker",
+		"value": "wit",
+		"description": "A person who verifies the truthfulness of an event or action\n\t UF Deponent\n\t UF Eyewitness\n\t UF Observer\n\t UF Onlooker\n\t UF Testifier"
+	},
+	{
+		"role": "Patent inventor",
+		"value": "inv",
+		"description": "A person, family, or organization responsible for creating a new device or process\n\t UF Patent inventor"
+	},
+	{
+		"role": "Patentee",
+		"value": "pth",
+		"description": "A person or organization that was granted the patent referred to by the item\n\t UF Patentee"
+	},
+	{
+		"role": "Performer of research",
+		"value": "res",
+		"description": "A person or organization responsible for performing research\n\t UF Performer of research"
+	},
+	{
+		"role": "Plates, printer of",
+		"value": "pop",
+		"description": "A person or organization who prints illustrations from plates.\n\t UF Plates, printer of"
+	},
+	{
+		"role": "Preservationist",
+		"value": "con",
+		"description": "A person or organization responsible for documenting, preserving, or treating printed or manuscript material, works of art, artifacts, or other media\n\t UF Preservationist"
+	},
+	{
+		"role": "Producer of book",
+		"value": "bkp",
+		"description": "A person or organization responsible for the production of books and other print media\n\t UF Producer of book"
+	},
+	{
+		"role": "Promoter",
+		"value": "ths",
+		"description": "A person under whose supervision a degree candidate develops and presents a thesis, mémoire, or text of a dissertation\n\t UF Promoter"
+	},
+	{
+		"role": "Recipient",
+		"value": "rcp",
+		"description": "A person, family, or organization to whom the correspondence in the work is addressed\n\t UF Recipient"
+	},
+	{
+		"role": "Sponsoring body",
+		"value": "spn",
+		"description": "A person, family, or organization sponsoring some aspect of the resource, e.g., funding research, sponsoring an event\n\t UF Sponsoring body"
+	},
+	{
+		"role": "Supposed name",
+		"value": "att",
+		"description": "An author, artist, etc., relating him/her to a resource for which there is or once was substantial authority for designating that person as author, creator, etc. of the work indicative of provenance\n\t UF Supposed name"
+	},
+	{
+		"role": "Technical draftsman",
+		"value": "drm",
+		"description": "A person, family, or organization contributing to a resource by an architect, inventor, etc., by making detailed plans or drawings for buildings, ships, aircraft, machines, objects, etc\n\t UF Technical draftsman"
+	},
+	{
+		"role": "Testifier",
+		"value": "wit",
+		"description": "A person who verifies the truthfulness of an event or action\n\t UF Deponent\n\t UF Eyewitness\n\t UF Observer\n\t UF Onlooker\n\t UF Testifier"
+	},
+	{
+		"role": "Typesetter",
+		"value": "cmt",
+		"description": "A person or organization responsible for the creation of metal slug, or molds made of other materials, used to produce the text and images in printed matter\n\t UF Typesetter"
+	},
+	{
+		"role": "Vocalist",
+		"value": "sng",
+		"description": "A performer contributing to a resource by using his/her/their voice, with or without instrumental accompaniment, to produce music. A singer's performance may or may not include actual words\n\t UF Vocalist"
+	}
+]

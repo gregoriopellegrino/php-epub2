@@ -70,9 +70,11 @@
     		
     		//guide
     		$guide = $content->guide;
-    		$dom = dom_import_simplexml($guide);
-    		while (isset($dom->firstChild)) $dom->removeChild($dom->firstChild);  
-    		$this->getGuide()->asXml($guide);
+    		if(!empty($guide)) {
+				$dom = dom_import_simplexml($guide);
+				while (isset($dom->firstChild)) $dom->removeChild($dom->firstChild);  
+				$this->getGuide()->asXml($guide);
+			}
     		
     		//Format XML to save indented tree rather than one line
 			$dom = new DOMDocument('1.0');

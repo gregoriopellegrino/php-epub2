@@ -17,6 +17,8 @@
     		$xml = $this->epub->getOpf()->guide;
     		$manifest = $this->epub->getManifest();
 			
+			if(empty($xml)) return;
+			
 			foreach($xml->reference as $reference){
     			$attr = $reference->attributes();
     			

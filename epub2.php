@@ -15,6 +15,7 @@
 		private $manifest = null;
 		private $spine = null;
 		private $guide = null;
+		private $opf_path = null;
 
     	// method declaration
     	function __construct($file, $name, $path) {
@@ -41,7 +42,15 @@
     	
     	// return XML object of opf file
     	public function getOpf() {
-    		return simplexml_load_file($this->path."OEBPS/content.opf");
+    		if(!isset($this->opf_path)) {
+				$container = simplexml_load_file($this->path."META-INF/container.xml");
+				foreach($container->rootfiles->rootfile as $rootfile) {
+					$attr = $rootfile->attributes();
+					if($attr["media-type"] == "application/oebps-package+xml") $this->opf_path = $attr["full-path"];
+				}
+    	    }
+    		
+    		return simplexml_load_file($this->path.$this->opf_path);
     	}
     	
     	public function save() {

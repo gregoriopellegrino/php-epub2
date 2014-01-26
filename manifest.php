@@ -17,7 +17,11 @@
 			
 			foreach($xml->item as $item){
     			$attr = $item->attributes();
-    			$item = new item($attr["id"], $attr["href"], $attr["media-type"]);
+    			if(isset($attr["properties"])) {
+    				$item = new item($attr["id"], $attr["href"], $attr["media-type"], $attr["properties"]);
+    			} else {
+    				$item = new item($attr["id"], $attr["href"], $attr["media-type"]);
+    			}
     			$this->addItem($item);
     		}
     	}
@@ -60,6 +64,7 @@
     			$nodo->addAttribute("id", $item->getId());
     			$nodo->addAttribute("href", $item->getHref());
     			$nodo->addAttribute("media-type", $item->getMedia_type());
+    			if(!is_null($item->getProperties())) $nodo->addAttribute("properties", $item->getProperties());
     		}
     	}
     	

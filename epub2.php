@@ -5,6 +5,7 @@
 	require_once("manifest.php");
 	require_once("spine.php");
 	require_once("guide.php");
+	require_once("toc.php");
 	
 	class epub2 {
 	
@@ -16,6 +17,7 @@
 		private $spine = null;
 		private $guide = null;
 		private $opf_path = null;
+		private $nav_path = null;
 
     	// method declaration
     	function __construct($file, $name, $path) {
@@ -26,6 +28,7 @@
     	    $this->manifest = new manifest($this);
     	    $this->spine = new spine($this);
     	    $this->guide = new guide($this);
+    	    $this->toc = new toc($this);
     	}
     	
     	/*public function decompress() {
@@ -53,7 +56,23 @@
     		return simplexml_load_file($this->path.$this->opf_path);
     	}
     	
+    	// return XML object of nav file
+    	public function getNav() {
+    		if(!isset($this->nav_path)) {
+				$nav = $this->getManifest()->getItemsByProperty("nav");
+				if(count($nav) == 0) return false;
+				$this->nav_path = "OEBPS/".$nav[0]->getHref();
+    	    }
+    		
+    		return simplexml_load_file($this->path.$this->nav_path);
+    	}
+    	
     	public function save() {
+    		$this->saveOpf();
+    		if($this->getNav() != false) $this->saveNav();
+    	}
+    	
+    	public function saveOpf() {
     		$content = $this->getOpf();
     		
     		//manifest
@@ -81,7 +100,25 @@
 			$dom->preserveWhiteSpace = false;
 			$dom->formatOutput = true;
 			$dom->loadXML($content->asXML());
-			$dom->save($this->path."OEBPS/content.opf");
+			$dom->save($this->path.$this->opf_path);
+    	}
+    	
+    	public function saveNav() {
+    		$content = $this->getNav();
+    		
+    		//toc
+    		$content->registerXPathNamespace("xhtml", "http://www.w3.org/1999/xhtml");
+    	    $toc = $content->xpath('//xhtml:nav[@epub:type="toc"]');
+    		$dom = dom_import_simplexml($toc[0]);
+    		while (isset($dom->firstChild)) $dom->removeChild($dom->firstChild);  
+    		$this->getToc()->asXml($toc[0]);
+    		
+    		//Format XML to save indented tree rather than one line
+			$dom = new DOMDocument('1.0');
+			$dom->preserveWhiteSpace = false;
+			$dom->formatOutput = true;
+			$dom->loadXML($content->asXML());
+			$dom->save($this->path.$this->nav_path);
     	}
     	
     	/*public function importSpine($xml) {
@@ -166,6 +203,10 @@
     	
     	public function getGuide() {
     		return $this->guide;
+    	}
+    	
+    	public function getToc() {
+    		return $this->toc;
     	}
 	}
 ?>

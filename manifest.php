@@ -50,6 +50,14 @@
     		return $return;
     	}
     	
+    	public function getItemsByProperty($property) {
+    		$return = array();
+    		foreach($this->items as $item) {
+    			if($item->getProperties() == $property) array_push($return, $item);
+    		}
+    		return $return;
+    	}
+    	
     	public function getItemByHref($href) {
     		foreach($this->items as $item) {
     			if($item->getHref() == $href) return $item;
